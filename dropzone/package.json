@@ -1,0 +1,16 @@
+{
+  "name": "try-dropzone",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "turusuke",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.5",
+    "gulp-coffee": "~2.0.1",
+    "gulp-watch": "~0.6.8"
+  }
+}
